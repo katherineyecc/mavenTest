@@ -1,3 +1,4 @@
+//That's a new note!
 package maventest;
 
 import org.joda.time.DateTime;
